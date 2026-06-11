@@ -4,6 +4,10 @@ Python language and libraries explored from basics. Projects done and different 
 ### Project Log:
 * Project Started
 * Madlibs Game
+* Calculator
+* Weight Converter
+* Temperature Converter
+* Compound Interest Calculator
 
 ### Tech Stack:
 VS Code, Extensions, Python 3.14.5
