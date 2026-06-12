@@ -8,6 +8,9 @@ Python language and libraries explored from basics. Projects done and different 
 * Weight Converter
 * Temperature Converter
 * Compound Interest Calculator
+* Countdown Timer
+* Shopping Cart Program
+* Quiz Game
 
 ### Tech Stack:
 VS Code, Extensions, Python 3.14.5
