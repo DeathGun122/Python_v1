@@ -1,8 +1,7 @@
 ## Description:
 Python language and libraries explored from basics. Projects done and different runtime covered. Advance topics needed for AI Engineering and RAG applications covered.
 
-### Project Log:
-* Project Started
+### Projects:
 * Madlibs Game
 * Calculator
 * Weight Converter
@@ -11,6 +10,10 @@ Python language and libraries explored from basics. Projects done and different 
 * Countdown Timer
 * Shopping Cart Program
 * Quiz Game
+* Concession Standing Program
+* Number Guessing Game
+* Rock, Paper, Scizzor Game
+* Dice Roller Program
 
 ### Tech Stack:
 VS Code, Extensions, Python 3.14.5
