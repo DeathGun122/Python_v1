@@ -1,0 +1,23 @@
+words = (
+    "apple", "banana", "orange", "mango", "grape", "pineapple", "papaya",
+    "watermelon", "muskmelon", "kiwi", "strawberry", "blueberry",
+    "raspberry", "blackberry", "cherry", "peach", "pear", "plum",
+    "apricot", "pomegranate", "guava", "lychee", "coconut", "fig", "date",
+    "avocado", "lemon", "lime", "tangerine", "grapefruit", "cucumber",
+    "tomato", "potato", "onion", "garlic", "ginger", "carrot",
+    "beetroot", "radish", "turnip", "cabbage", "cauliflower", "broccoli",
+    "spinach", "lettuce", "kale", "celery", "asparagus", "pumpkin",
+    "bottlegourd", "bittergourd", "ridgegourd", "brinjal", "eggplant",
+    "capsicum", "bellpepper", "chili", "peas", "beans", "corn", "okra",
+    "mushroom", "zucchini", "sweetpotato", "yam", "taro", "cassava",
+    "parsley", "coriander", "mint", "basil", "dill", "thyme", "rosemary",
+    "oregano", "curryleaves", "fenugreek", "leek", "springonion",
+    "shallot", "artichoke", "chicken", "mutton", "beef", "pork",
+    "turkey", "duck", "quail", "rabbit", "venison", "lamb", "goat",
+    "fish", "salmon", "tuna", "sardine", "mackerel", "cod", "trout",
+    "snapper", "tilapia", "catfish", "prawn", "shrimp", "crab",
+    "lobster", "oyster", "mussel", "clam", "squid", "octopus", "eel",
+    "anchovy", "herring", "bacon", "sausage", "ham", "meatball",
+    "meatloaf", "salami", "pepperoni", "jerky", "liver", "kidney",
+    "heart", "tongue", "tripe"
+)

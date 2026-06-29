@@ -14,6 +14,10 @@ Python language and libraries explored from basics. Projects done and different 
 * Number Guessing Game
 * Rock, Paper, Scizzor Game
 * Dice Roller Program
+* Banking Program
+* Slot Machine
+* Encryption Program
+* Hangman Game 
 
 ### Tech Stack:
 VS Code, Extensions, Python 3.14.5
